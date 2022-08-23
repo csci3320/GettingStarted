@@ -16,4 +16,4 @@ If python is installed, you would see the following on the terminal:
 
 (Quick tip: to get out of the python interactive console, type ```exit()```)
 
-To install python, go to https://www.python.org/downloads/ and get the installer that matches your system. After it is installed, you should see the above result when you type ```python```.
+To install python, go to https://www.python.org/downloads/ and get the installer that matches your system. After it is installed, you should see the above result when you type at least one of the aliases: ```python```, ```py```, or ```python3```.
